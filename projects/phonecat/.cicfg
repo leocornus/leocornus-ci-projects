@@ -1,3 +1,5 @@
 [ci]
+# set the scripts to execute the test cases for your projects.
+# one line for each testing script.
 script:
   npm test
